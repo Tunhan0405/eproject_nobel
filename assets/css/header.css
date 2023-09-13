@@ -152,6 +152,9 @@ header {
     .navbar-toggler.active+.navbar-toggler-icon {
         display: block;
     }
+    .navbar-toggler {
+        color: white;
+    }
 }
 
 @media (min-width: 601px) and (max-width:900px) {
